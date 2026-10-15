@@ -1,0 +1,2 @@
+# mosi-studio
+Installation package
